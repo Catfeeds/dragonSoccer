@@ -1,0 +1,1 @@
+在windows里用git bash here命令执行glone远程github仓库的代码，同样的方法首先将本地的id_rsa.pub的内容复制进github的ssh key中，即可实现克隆项目
