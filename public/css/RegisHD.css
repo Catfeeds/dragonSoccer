@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.backImage
+{
+    width: 100%;
+}
+.SureBtn
+{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 62px;
+    background: #0BBE8C;
+    color: white;
+    font-size:12px;
+    line-height: 62px;
+    text-align:  center;
+}
+.writeBackGround
+{
+    width:100%;
+    height: 56px;
+}

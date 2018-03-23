@@ -1,0 +1,94 @@
+body
+{
+    background-color: #FBFBFC;
+}
+/*tableView*/
+.tableView
+{
+    height: 120px;
+    width: auto;
+    margin: 20px 20px 0px 20px;
+    border-style:solid;
+    border-color: #E4E5ED;
+    border-width: 1px;
+    background-color: #FFFFFF;
+
+}
+.tableView hr
+{
+    margin:  0px;
+}
+.cell
+{
+    height: 59.5px;
+    margin: 0px;
+    line-height: 60px;
+    padding-left: 20px;
+    font-weight: 600;
+}
+.cell img
+{
+    width:20px ;
+    height:15px ;
+    margin-right: 10px;
+}
+/*说明*/
+.bigtext
+{
+    font-family:PingFangSC-Light;
+    color:#555567;
+    font-weight: 600;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+.smalltext
+{
+    font-family:PingFangSC-Light;
+    color:#555567;
+    font-weight: 100;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.firstForPlayout
+{
+    margin-top: 20px;
+}
+/*底部div*/
+.buttomDiv
+{
+    height: 60px;
+    width: 100%;
+    border-top-style:solid;
+    border-top-color: #E4E5ED;
+    border-top-width: 1px;
+
+}
+.buttomDiv p
+{
+    display: inline;
+    line-height: 60px;
+}
+.buttomDiv p:first-child
+{
+    margin-left: 20px;
+    color: #363636;
+    font-weight: 600;
+}
+.money
+{
+    margin-left: 10px;
+    color: #EEBD26;
+    font-weight: 600;
+}
+.suerbutton
+{
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 10px;
+    color: #FFFFFF!important;
+    background-color:#6093EC ;
+    font-weight: 600;
+    float: right;
+}

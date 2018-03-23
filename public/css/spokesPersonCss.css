@@ -1,0 +1,113 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+}
+hr
+{
+    margin: 20px 20px 0px 20px !important;
+}
+.title
+{
+    text-align: center;
+    font-size:15px;
+    font-family:PingFangSC-Medium;
+    color: #555567;
+    font-weight: 500;
+    padding-top: 17px;
+    margin-bottom: 0px;
+}
+.context
+{
+    margin: 0px;
+    padding-top: 0px;
+    text-align: center;
+    font-size:10px;
+    font-family:PingFangSC-Light;
+    color: #555567;
+
+}
+.timeText
+{
+    text-align: center;
+    font-size:10px;
+    font-family:PingFangSC-Light;
+    color:#A9A9A9;
+}
+/*每个人的css*/
+.cell
+{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.mx_ul
+{
+    list-style-type:none;
+    display: inline-block;
+    width: 60%;
+    margin: 0px!important;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.headerImage
+{
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.persontitle
+{
+    font-size:10px;
+    font-family:PingFangSC-Regular;
+    display: inline;
+    margin-bottom: 0px;
+}
+.progress_Mx
+{
+    margin-bottom: 5px!important;
+    border-radius: 8px!important;
+}
+.am-progress-xs
+{
+    height:10px;
+}
+.am-progress-bar
+{
+    background-color:#6093EC!important;
+    font-size:6px!important;
+    line-height: 10px!important;
+
+}
+.upforbutton
+{
+    width: 40px;
+    height: 40px;
+    font-size: 9px;
+    border-width: 1px;
+    border-color: #E5E5E5;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    color: #6093EC;
+    float: right;
+    margin-top: 5px;
+    margin-right: 20px;
+    outline: none;
+
+}
+/*悬浮按钮*/
+.sureBtn
+{
+    border: 0px;
+    width: 80%;
+    height: 50px;
+    font-size: 9px;
+    margin-left: 10%;
+    margin-bottom: 20px!important;
+    color: #FFFFFF;
+    background-color: #6093EC;
+    outline: none;
+    border-radius: 5px;
+    box-shadow:0 0 10px #6093EC;
+}

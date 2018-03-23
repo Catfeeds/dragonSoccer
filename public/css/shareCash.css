@@ -1,0 +1,99 @@
+/*说明*/
+.shareExplant
+{
+    margin-top: 71px;
+    text-align: center;
+    font-family:PingFangSC-Medium;
+    font-weight: 500;
+    color:rgba(96,147,236,1);
+
+}
+/*头部*/
+.boxes
+{
+    height: 150px;
+
+}
+.box
+{
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+}
+.box p:first-child
+{
+    margin-top: 60px;
+    font-size: 25px;
+    color: #6093EC ;
+    font-family: PingFangSC-Semibold;
+}
+.box p:last-child
+{
+    font-size: 10px;
+    font-family: PingFangSC-Light;
+}
+.box p
+{
+    line-height: 10px;
+    height: 20px;
+}
+/*列表*/
+.addFriend
+{
+    width: 60px;
+    height: 25px;
+    font-size: 9px;
+    border-color: #EAEAEA;
+    border-width: 1px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    outline: none;
+
+}
+
+.sureBtnTwo
+{
+    margin-bottom: 90px!important;
+}
+
+
+/*
+    以下是体现列表页的css
+*/
+.drawcell
+{
+    margin: 0px;
+    list-style-type:none;
+    display: inline-block;
+    width: 60%;
+    padding-top: 20px;
+}
+.drawcell li:first-child
+{
+    font-size:15px;
+    font-family:PingFangSC-Semibold;
+    color:rgba(33,36,61,1);
+    font-weight: 600;
+}
+.drawcell li:last-child
+{
+    padding-top: 10px;
+    font-size:12px;
+    font-family:PingFangSC-Regular;
+    color:rgba(199,199,211,1);
+}
+.drawmoney
+{
+    display: inline-block;
+    width: 100px;
+    height: 42px;
+    float: right;
+    margin-top: 20px;
+    text-align: right;
+    padding-right: 20px;
+    font-weight: 600;
+    color: #EEBD26;
+}

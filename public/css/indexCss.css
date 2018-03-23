@@ -1,0 +1,26 @@
+.background
+{
+    text-align: center;
+    height: 110px;
+}
+.background ul
+{
+    padding: 0px;
+    margin: 2.5px 20px 2.5px 20px;
+    list-style-type:none;
+    height: 110px;
+    background-color: #7a869d;
+
+}
+ul li:first-child
+{
+    font-size: 15px;
+    font-weight: 600;
+    color: #000000;
+    padding-top: 30px;
+}
+ul li:last-child
+{
+    font-size: 9px;
+    color: #A9A9A9;
+}

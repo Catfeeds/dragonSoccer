@@ -1,0 +1,40 @@
+.textView
+{
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 90%;
+    border-width: 0px;
+}
+.placeImage
+{
+    display: inline-block;
+    height: 90px;
+    /*background-color: #7a869d;*/
+    padding: 10px;
+    margin: 5px 0px 0px 0px;
+
+}
+.upimgs
+{
+    width: 100%;
+    height: auto;
+}
+.addBtn
+{
+    width: 75px;
+    height: 75px;
+    margin-left: 10px;
+    margin-top: 15px;
+    float: left;
+    background-image: url("/imgs/addBtn.png");
+    background-size: 100% 100%;
+}
+#file_input
+{
+    /*outline:none;*/
+    /*border:0;*/
+    position:absolute;
+    clip:rect(0 0 0 0);
+}
